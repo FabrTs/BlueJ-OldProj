@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Agenda()
+comment1.params=N
+comment1.target=void\ addNote(String)
+comment2.target=int\ numNotes()
+comment3.params=in
+comment3.target=void\ showNote(int)
+comment4.target=void\ printNotes()
+comment5.params=in
+comment5.target=void\ deleteNote(int)
+numComments=6

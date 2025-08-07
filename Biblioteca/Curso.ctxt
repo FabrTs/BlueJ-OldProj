@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=Nom
+comment0.target=Curso(String)
+comment1.params=nID\ Nom
+comment1.target=void\ inscribir(int,\ String)
+comment2.params=nID\ calf
+comment2.target=void\ calificar(int,\ double)
+comment3.target=void\ promediar()
+comment4.target=void\ imprimirLista()
+numComments=5
